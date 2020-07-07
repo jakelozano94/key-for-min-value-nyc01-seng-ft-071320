@@ -13,6 +13,6 @@ name_hash.each do |item, value|
     answer = item
     lowest_number = value
 end
-answer
 end
+answer
 end
