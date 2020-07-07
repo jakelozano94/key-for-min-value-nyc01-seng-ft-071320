@@ -13,5 +13,4 @@ name_hash.each do |item, value|
     lowest_number = value
 end
 end
-answer
 end
