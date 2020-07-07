@@ -4,6 +4,7 @@
 
 def key_for_min_value(name_hash)
   lowest_number = nil
+  answer = nil
 name_hash.each do |item, value|
   if lowest_number == nil
     answer = item
